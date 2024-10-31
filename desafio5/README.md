@@ -1,0 +1,2 @@
+## DESAFIO 5
+Escreva um programa em Python que funcione como uma calculadora simples. Ele deve pedir ao usuário para inserir dois números e, em seguida, solicitar a operação que deseja realizar (adição, subtração, multiplicação ou divisão).
